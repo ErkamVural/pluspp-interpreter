@@ -1,0 +1,6 @@
+number size;
+number size2; 
+write size and size2;
+repeat 5 times 
+{ write newline size and size2;
+}

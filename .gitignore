@@ -1,0 +1,7 @@
+*.exe
+*.o
+la
+*.lx
+.vscode/
+.idea/
+.DS_Store
